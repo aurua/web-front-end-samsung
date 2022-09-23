@@ -1,3 +1,6 @@
+jnhn.kim@samsung.com
+감사합니다!
+
 # Web Front-end
 
 웹 프론트엔드 펀더멘탈 학습 저장소
